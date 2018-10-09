@@ -1,7 +1,14 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
-  "do_objectID": "04e82280-cb7e-11e8-86af-a75e8f03d243",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "C4AF2846-579B-480A-BE21-3CEE8504BE9F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,41 +21,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 667,
+    "width": 375,
+    "x": 11063,
+    "y": 1067
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "108183B7-F162-41B3-B5A1-BE617692A1C0"
-    },
-    {
-      "class": "artboard",
-      "id": "C4AF2846-579B-480A-BE21-3CEE8504BE9F"
+      "class": "symbolInstance",
+      "id": "B4F22B75-B23E-497E-A620-376E425D5B1F"
     }
   ],
-  "name": "Page 1",
+  "name": "iPhone 8 Copy",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -58,7 +72,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

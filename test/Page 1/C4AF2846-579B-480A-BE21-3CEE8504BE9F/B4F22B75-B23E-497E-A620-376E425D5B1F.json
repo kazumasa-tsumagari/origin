@@ -1,7 +1,7 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
-  "do_objectID": "04e82280-cb7e-11e8-86af-a75e8f03d243",
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B4F22B75-B23E-497E-A620-376E425D5B1F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,40 +14,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 20,
+    "width": 375,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "108183B7-F162-41B3-B5A1-BE617692A1C0"
-    },
-    {
-      "class": "artboard",
-      "id": "C4AF2846-579B-480A-BE21-3CEE8504BE9F"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Bars/Status/Black",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -56,10 +42,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "C441039B-1BCB-4D99-86B9-B87C81F290BA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
 }
